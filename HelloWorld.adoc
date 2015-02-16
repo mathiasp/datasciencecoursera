@@ -6,4 +6,3 @@ Mathias Bernd Heinz Picker <mathiasp@mathiaspicker.net>
 
 It's nice to meet you!
 
-Yes, {middlename} is really my middlename, giving the horrible {initials}!
