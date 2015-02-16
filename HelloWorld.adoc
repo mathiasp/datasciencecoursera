@@ -1,7 +1,9 @@
 = Hello World, from the coursera datascience course
-Mathias Picker
+Mathias Bernd Heinz Picker <mathiasp@mathiaspicker.net>
 0.9, 2015-02-16
 
 == Hello, World!
 
 It's nice to meet you!
+
+Yes, {middlename} is really my middlename, giving the horrible {initials}!
